@@ -1,0 +1,32 @@
+header{
+    padding: 0;
+    height: 100%;
+    background-size: 100%;
+  
+}
+img{
+    margin: 0 auto;
+    height: 12em;
+    width: 10em;
+    display: block;
+    
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 1em;
+    color: rgb(55, 148, 32)
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    text-transform: uppercase;
+    color: darkmagenta;
+    
+}
+p{
+    color: #000;
+    letter-spacing: 0.05em;
+    word-spacing: 0.1em;
+}
+ 
